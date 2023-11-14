@@ -14,7 +14,7 @@
 A Progressive Web Application (PWA) is a type of web application that uses modern web technologies to provide a user experience similar to that of a traditional native mobile application. PWAs are designed to work on any platform with a standard-compliant browser, regardless of the device. They aim to combine the best features of the web and mobile apps.
 ## Usage
 
-![Progresive-Web-Application](/client/dist/assets/images/presentation.png)
+![Progresive-Web-Application](/client/src/images/presentation.png)
 
 
 ## Licence
